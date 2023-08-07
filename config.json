@@ -1,0 +1,19 @@
+{
+  "twitch_channels": "Addexio,DALENG_STREAM_COMMUNITY_,Flashy84,Games0fTristan,Kjelstra,kristinfj_89,Moneywasterr,Myrland86,TrasMaTech",
+  "discord_announce_channel": "🔴twitch-live",
+  "discord_mentions": {
+    "921063922549784666": "everyone",
+    "<SOME_TWITCH_CHANNEL_NAME>": "here"
+  },
+  "discord_bot_token": "MTA2OTcxMTQyOTAyNTkzMTQxNA.GjpDUb.b2FQlUtDIgCqcm9p64kK8kC8H-se_1-beY-ONA",
+  "twitch_client_id": "y5t7b5ynsa6l6em1xibqklkgfcrzw3",
+  "twitch_oauth_token": "2uzdmmqbkcg5qbvvh0no4ccng7bhar",
+  "twitch_check_interval_ms": 1000,
+  "twitch_use_boxart": true,
+  "message": "@everyone **{videoAuthorName}** Er nå enten live, eller har akkurat lagt ut en ny video :D Sjekk ut hva som har kommet! {videoURL}",
+  "channel": "1109978919974735892",
+  "youtubers": [
+      "https://www.youtube.com/@GamesofTor"
+  ],
+  "youtubeKey": "AIzaSyB1cLJxFV5eJ8sG85P_kA3_wH_DFNqhjcQ"
+}
