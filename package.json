@@ -5,6 +5,7 @@
   "main": "index",
   "scripts": {
     "start": "node index.js"
+    "dev": "index.js"
   },
   "author": "",
   "license": "MIT",
