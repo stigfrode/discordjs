@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "testbot discord",
   "main": "index",
-  "scripts": {
-    "start": "node index.js"
-    "dev": "index.js"
-  },
   "author": "",
   "license": "MIT",
   "dependencies": {
@@ -21,5 +17,9 @@
     "request": "^2.88.2",
     "rss-parser": "^3.13.0",
     "simple-youtube-api": "^5.2.1"
+  },
+    "scripts": {
+    "start": "node index.js"
+    "dev": "index.js"
   }
 }
